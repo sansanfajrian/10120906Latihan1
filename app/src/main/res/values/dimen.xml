@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_margin">0dp</dimen>
+    <dimen name="extra_small_margin">2dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="normal_margin">8dp</dimen>
+    <dimen name="medium_margin">12dp</dimen>
+    <dimen name="extra_medium_margin">14dp</dimen>
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="semi_huge_margin">32dp</dimen>
+
+    <dimen name="img_profile_size">44dp</dimen>
+</resources>
